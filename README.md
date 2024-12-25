@@ -1,3 +1,6 @@
+ 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 <h2 align="left">Hi 👋! Meu nome weverton </h2>
 
 ###
@@ -13,17 +16,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
- <img width="12" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" height="30" alt="Python logo  />
-    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
+           height="30" alt="css3 logo"  />
+  <i class="devicon-threedsmax-plain "></i>
+
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/wevertonferreiramax/" target="blank">
+  <a href="https://www.instagram.com/wevertonferreiramax/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
@@ -31,7 +36,5 @@
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/wevertonvianna/wevertonvianna/output/snake.svg" alt="Snake animation" />
-
 ###
