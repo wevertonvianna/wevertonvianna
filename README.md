@@ -19,9 +19,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
-           height="30" alt="css3 logo"  />
-  <i class="devicon-threedsmax-plain "></i>
+  <img src="https://icongr.am/devicon/python-original.svg?size=30&color=currentColor" height="30" alt="python logo"  />
+  <img botom="12" />
 
 </div>
 
