@@ -38,4 +38,5 @@
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/wevertonvianna/wevertonvianna/output/snake.svg" alt="Snake animation" />
+
 ###
